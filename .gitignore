@@ -1,0 +1,6 @@
+# Blacklist
+#ignorando arquivos diretamente - separar nome e extensão
+teste.txt
+
+#ignorando todos: *.js
+*.js
